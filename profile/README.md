@@ -11,4 +11,4 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 📍 Be the FIRST to get the latest and the greatest.
 
-#### An ECE Dapp
+#### [An ECE Dapp](https://github.com/eliascharlese)
