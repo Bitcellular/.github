@@ -5,10 +5,10 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 📍 Automated income at any-time, any-place and any-strategy you prefer.
 
-🛟 Use pre-built queries or custom queries, even third-party queries from other dapps.
+💞 Include your family members in your bitcell structure.
 
-⛵ Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+⛵ Stay afloat your expenses and manage to grow in wealth.
 
-💞 Frustrated? Can't seem to buy before the blast-off?
+🛟 Build safety protocols for economic turmoil and emergencies.
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
