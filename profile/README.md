@@ -11,4 +11,4 @@ A persoal flashloan bot connected to your wallet of choice with an additional la
 
 🛟 Build safety protocols for economic turmoil and emergencies.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
